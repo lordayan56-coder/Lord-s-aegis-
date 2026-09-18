@@ -1,0 +1,6 @@
+{
+  "name": "LORD'S AEGIS",
+  "description": "Futuristic personal AI guardian and holographic command system for Lord.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
